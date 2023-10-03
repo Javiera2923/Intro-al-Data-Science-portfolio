@@ -12,7 +12,7 @@
 
 ## Portafolio Personal
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/{GITHUB_USER}/mat281_portfolio_template/master?urlpath=lab)
-Trabajos, tareas y proyectos desarrollados para la clase introductorio al Data Science en 2021.
+Trabajos, tareas y proyectos desarrollados para la clase introductoria al Data Science (2021).
 ### Setup
 
 Las instrucciones de uso se encuentran en [este](setup.md) siguiente archivo. 
